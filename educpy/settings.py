@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'edublog.apps.EdublogConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
-    'ckeditor',
 ]
 
 MIDDLEWARE = [
